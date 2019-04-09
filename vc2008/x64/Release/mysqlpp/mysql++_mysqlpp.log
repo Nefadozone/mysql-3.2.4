@@ -1,0 +1,60 @@
+﻿  beemutex.cpp
+  cmdline.cpp
+  connection.cpp
+  cpool.cpp
+  datetime.cpp
+  dbdriver.cpp
+  field_names.cpp
+  field_types.cpp
+  manip.cpp
+  myset.cpp
+  mysql++.cpp
+  mystring.cpp
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\connection.cpp)
+  null.cpp
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\cmdline.cpp)
+  options.cpp
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\datetime.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\dbdriver.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\field_types.cpp)
+  qparms.cpp
+  query.cpp
+  result.cpp
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\beemutex.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\manip.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\cpool.cpp)
+  row.cpp
+  scopedconnection.cpp
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\field_names.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\myset.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\mystring.cpp)
+  sqlstream.cpp
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\mysql++.cpp)
+  sql_buffer.cpp
+  ssqls2.cpp
+  stadapter.cpp
+  tcp_connection.cpp
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\result.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\qparms.cpp)
+  transaction.cpp
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\null.cpp)
+  type_info.cpp
+  uds_connection.cpp
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\scopedconnection.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\options.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\query.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\row.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\sql_buffer.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\sqlstream.cpp)
+  utility.cpp
+  vallist.cpp
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\stadapter.cpp)
+  wnp_connection.cpp
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\tcp_connection.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\ssqls2.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\type_info.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\transaction.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\uds_connection.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\utility.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\vallist.cpp)
+e:\projects\bluemarten\_feralheartredux\fhr\mysql++-3.2.4\lib\common.h(219): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory (compiling source file ..\lib\wnp_connection.cpp)
